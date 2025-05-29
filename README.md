@@ -24,10 +24,10 @@ A simple RESTful API built with Node.js and Express to manage a collection of bo
 ![GET Books](screenshots/02_get_books.png)
 
 ### POST /books Request and Response
-![POST Book](screenshots/03_post_book.png)
+![POST Book](screenshots/03_post_books.png)
 
 ### PUT /books/:id Request and Response
-![PUT Book](screenshots/04_put_book.png)
+![PUT Book](screenshots/04_put_books.png)
 
 ### DELETE /books/:id Request and Response
-![DELETE Book](screenshots/05_delete_book.png)
+![DELETE Book](screenshots/05_delete_books.png)
